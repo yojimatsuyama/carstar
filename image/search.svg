@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="carstar-website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-670.000000, -2586.000000)" fill="#27212A">
+            <path d="M682.5,2597 L681.7,2597 L681.4,2596.7 C682.4,2595.6 683,2594.1 683,2592.5 C683,2588.9 680.1,2586 676.5,2586 C672.9,2586 670,2588.9 670,2592.5 C670,2596.1 672.9,2599 676.5,2599 C678.1,2599 679.6,2598.4 680.7,2597.4 L681,2597.7 L681,2598.5 L686,2603.5 L687.5,2602 L682.5,2597 L682.5,2597 Z M676.5,2597 C674,2597 672,2595 672,2592.5 C672,2590 674,2588 676.5,2588 C679,2588 681,2590 681,2592.5 C681,2595 679,2597 676.5,2597 L676.5,2597 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
